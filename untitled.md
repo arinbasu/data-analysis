@@ -1,1 +1,1 @@
-_Oh, an empty article!_ You can get started by **double clicking** this text block and begin editing. You can also click the **Insert** button below to add new block elements. Or you can **drag and drop an image** right onto this text!
+The purpose of this paper is to explore the mutual relationships between authorea, github, and knitr for a unified workflow for ocnducting and publishing research papers. The data can be stored in github repository and the data analyses can be conducted in R, further additional files can be stored in github. 
