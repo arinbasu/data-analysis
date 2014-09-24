@@ -1,0 +1,1 @@
+The purpose of this paper is to explore the mutual relationships between authorea, github, and knitr for a unified workflow for ocnducting and publishing research papers. The data can be stored in github repository and the data analyses can be conducted in R, further additional files can be stored in github. 
